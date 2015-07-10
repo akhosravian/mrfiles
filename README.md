@@ -1,4 +1,4 @@
-<h1>New machine setup:</h1><br>
+<h1>New machine setup:</h1>
 Install homebrew<br>
 Install vcsh and mrrepos via brew (brew install vcsh mr)<br>
 Clone your mr repository: vcsh clone https://github.com/akhosravian/mrfiles.git mr<br>
