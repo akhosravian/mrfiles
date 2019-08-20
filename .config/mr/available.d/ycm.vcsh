@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/ycm.git]
+checkout = mkdir -p ~/.vim/bundle; VCSH_BASE=~/.vim/bundle/YouCompleteMe vcsh clone https://github.com/ycm-core/YouCompleteMe.git ycm
